@@ -20,12 +20,11 @@ require (
 	github.com/jhump/protoreflect v1.8.2
 	github.com/knadh/koanf v0.16.0
 	github.com/linkedin/goavro/v2 v2.10.0
-	github.com/mitchellh/mapstructure v1.4.1
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.10.0
 	github.com/stretchr/testify v1.7.0
 	github.com/twmb/franz-go v1.16.1
-	github.com/twmb/franz-go/pkg/kadm v1.11.0
 	github.com/twmb/franz-go/pkg/kmsg v1.7.0
 	github.com/twmb/franz-go/pkg/sasl/kerberos v1.0.0
 	github.com/vmihailenco/msgpack/v5 v5.3.1
