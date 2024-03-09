@@ -22,7 +22,7 @@
         "@ant-design/icons": "^4.6.4",
         "@heroicons/react": "^1.0.1",
         "@monaco-editor/react": "^4.3.1",
-        "@primer/octicons-react": "^15.2.0",
+        "@primer/octicons-react": "^19.8.0",
         "antd": "^4.15.3",
         "array-move": "^3.0.1",
         "customize-cra": "^1.0.0",
