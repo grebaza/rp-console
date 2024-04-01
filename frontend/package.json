@@ -33,7 +33,7 @@
         "moment": "^2.29.1",
         "monaco-editor": "^0.31.1",
         "monaco-proto-lint": "0.0.1",
-        "monaco-yaml": "^3.2.1",
+        "monaco-yaml": "^4.0.4",
         "npm-force-resolutions": "^0.0.10",
         "pretty-bytes": "^5.6.0",
         "pretty-ms": "^7.0.1",
