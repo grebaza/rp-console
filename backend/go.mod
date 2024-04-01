@@ -16,18 +16,17 @@ require (
 	github.com/gorilla/schema v1.2.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/jarcoal/httpmock v1.0.8
-	github.com/jcmturner/gokrb5/v8 v8.4.2
+	github.com/jcmturner/gokrb5/v8 v8.4.3
 	github.com/jhump/protoreflect v1.8.2
 	github.com/knadh/koanf v0.16.0
 	github.com/linkedin/goavro/v2 v2.10.0
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.10.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/twmb/franz-go v1.16.1
-	github.com/twmb/franz-go/pkg/kadm v1.11.0
 	github.com/twmb/franz-go/pkg/kmsg v1.7.0
-	github.com/twmb/franz-go/pkg/sasl/kerberos v1.0.0
+	github.com/twmb/franz-go/pkg/sasl/kerberos v1.1.0
 	github.com/vmihailenco/msgpack/v5 v5.3.1
 	go.uber.org/zap v1.16.0
 	golang.org/x/net v0.10.0
@@ -56,7 +55,7 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jcmturner/aescts/v2 v2.0.0 // indirect
 	github.com/jcmturner/dnsutils/v2 v2.0.0 // indirect
-	github.com/jcmturner/gofork v1.0.0 // indirect
+	github.com/jcmturner/gofork v1.7.6 // indirect
 	github.com/jcmturner/rpc/v2 v2.0.3 // indirect
 	github.com/kevinburke/ssh_config v1.1.0 // indirect
 	github.com/klauspost/compress v1.17.4 // indirect
@@ -83,6 +82,6 @@ require (
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	honnef.co/go/tools v0.1.1 // indirect
 )
